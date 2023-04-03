@@ -1,0 +1,36 @@
+commit e701ab748dd9faf7e723478ba65d5ad4cec5523a
+Author: Dean Nastevski <dean.nastevski@students.finki.ukim.mk>
+Date:   Mon Apr 3 22:24:23 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 691463f1d9f9584bae6661e992ebb9f1574bf47a
+Merge: 2dbcbc8 f1d1662
+Author: Dean Nastevski <dean.nastevski@students.finki.ukim.mk>
+Date:   Mon Apr 3 23:16:56 2023 +0200
+
+    Merge branch 'bug2'
+
+commit f1d1662bb481f087b4500dd5c3d34c44bc8d437d
+Author: Dean Nastevski <dean.nastevski@students.finki.ukim.mk>
+Date:   Mon Apr 3 22:19:00 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 2dbcbc83a1a7a696395013771eb6d0b2d7e8320c
+Author: Dean Nastevski <dean.nastevski@students.finki.ukim.mk>
+Date:   Mon Apr 3 22:04:37 2023 +0200
+
+    Fix wrong loop for reading
+
+commit be8cf212e4fcf19a4ed42fd3afbce6f637336653
+Author: Dean Nastevski <dean.nastevski@students.finki.ukim.mk>
+Date:   Mon Apr 3 21:48:29 2023 +0200
+
+    Add java class
+
+commit 5bd52eaa916f1580bfb1f2d38708d76f2a1afaed
+Author: Dean Nastevski <dean.nastevski@students.finki.ukim.mk>
+Date:   Mon Apr 3 21:43:52 2023 +0200
+
+    Initial commit.
